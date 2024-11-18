@@ -6,6 +6,6 @@ Observações:
 Devido há algum bloqueio de Supabase e ter que configurar o SMTP,
 um usuário foi criado para poder acessar os grupos do Inova.
 
-Conta para logar
-email:usuarioadm@gmail.com
-senha:1234567
+ ## Conta para logar
+ - email:usuarioadm@gmail.com
+ - senha:1234567
